@@ -19,3 +19,5 @@ To create an IPL analysis project using Excel, SQL, and Power BI, you can follow
    Create reports focusing on player performances, team statistics, and match outcomes. Use Power BI’s drill-down feature for detailed insights.
 
 This project will provide a holistic view of IPL performance trends and player analysis, allowing for data-driven decision-making and enhanced fan engagement.
+
+
