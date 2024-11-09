@@ -1,5 +1,7 @@
 # IPL-Analysis
 
+![logo](https://github.com/rachit7217/IPL-Analysis/blob/main/Dashboard%209%20IPL%20Analysis.png)
+
 To create an IPL analysis project using Excel, SQL, and Power BI, you can follow this comprehensive approach:
 
 1. **Data Collection & Preprocessing**:
